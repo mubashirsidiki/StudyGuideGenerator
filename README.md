@@ -69,3 +69,7 @@ The application will be available at http://localhost:8501 in your web browser.
 - Provides key terms and definitions
 - Offers study tips related to the topic
 - Cites sources from your document
+
+## Flow
+
+![diagram](https://github.com/user-attachments/assets/6582ed51-4da3-4ece-89fe-3f2209aaa6b0)
