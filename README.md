@@ -2,6 +2,8 @@
 
 Generate comprehensive study guides from academic documents using AI.
 
+Visit: [StudyGuideGenerator](https://studyguidegenerator-irjvf7m63f7hkqp2blktnx.streamlit.app/)
+
 ## Requirements
 
 - Python 3.11
